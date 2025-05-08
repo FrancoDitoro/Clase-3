@@ -2,3 +2,5 @@ git status #solo muestra el estado actual
 
 git add. #agrega todos los archivos que no estaban trackeados
 
+git checkout numero numero de comit
+
